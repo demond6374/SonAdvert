@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "uJPfEmG+34hXX8+scyYbkGxfcy6evaEZZkzOIzb4rnQ=",
+  "Source": "SonAdvert.Frontend",
+  "BasePath": "_content/SonAdvert.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SonAdvert.Frontend\\wwwroot",
+      "Source": "SonAdvert.Frontend",
+      "ContentRoot": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\wwwroot\\",
+      "BasePath": "_content/SonAdvert.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SonAdvert.Frontend.styles.css",
+      "SourceId": "SonAdvert.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SonAdvert.Frontend",
+      "RelativePath": "SonAdvert.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SonAdvert.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SonAdvert.Frontend.bundle.scp.css",
+      "SourceId": "SonAdvert.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SonAdvert.Frontend",
+      "RelativePath": "SonAdvert.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SonAdvert.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\wwwroot\\app.css",
+      "SourceId": "SonAdvert.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\wwwroot\\",
+      "BasePath": "_content/SonAdvert.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

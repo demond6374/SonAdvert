@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SonAdvert.Frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SonAdvert.Frontend.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SonAdvert.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SonAdvert.Frontend.props",
+      "PackagePath": "build\\SonAdvert.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SonAdvert.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\SonAdvert.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SonAdvert.Frontend.props",
+      "PackagePath": "buildTransitive\\SonAdvert.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
