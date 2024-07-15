@@ -1,4 +1,4 @@
-﻿namespace SonAdvert.Frontend;
+﻿namespace SonAdvert.Frontend.Models;
 
 public class InvoiceSummary
 {

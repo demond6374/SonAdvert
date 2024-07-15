@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj": {}
+    "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj": {
+    "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj",
         "projectName": "SonAdvert.Frontend",
-        "projectPath": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj",
+        "projectPath": "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\SonAdvert.Frontend.csproj",
         "packagesPath": "C:\\Users\\drobe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\",
+        "outputPath": "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\drobe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -70,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

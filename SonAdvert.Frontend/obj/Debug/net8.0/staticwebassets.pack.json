@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SonAdvert.Frontend.bundle.scp.css",
+      "Id": "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SonAdvert.Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets\\SonAdvert.Frontend.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\drobe\\source\\repos\\SonAdvert\\SonAdvert.Frontend\\wwwroot\\app.css",
+      "Id": "C:\\Users\\drobe\\source\\repos\\sonadvert2\\SonAdvert\\SonAdvert.Frontend\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
