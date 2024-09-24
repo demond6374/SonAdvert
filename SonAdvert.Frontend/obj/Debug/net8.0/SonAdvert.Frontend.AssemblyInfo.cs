@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SonAdvert.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca6fb9ae74bb3153e928beb32761861ba68c87c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aff3ae56e3c507cf160b4da184b7209132d43e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SonAdvert.Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SonAdvert.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
